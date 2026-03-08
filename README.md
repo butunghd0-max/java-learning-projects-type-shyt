@@ -51,7 +51,7 @@ Across these projects, the following Java concepts are utilized:
 - **Networking**: HTTP requests and JSON parsing (`java.net.HttpURLConnection`).
 - **Algorithms**: Sorting, Minimax, probability generation.
 
-## How to Run
+## How to Run (If you want i guess)
 
 Ensure you have the [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/) installed.
 
