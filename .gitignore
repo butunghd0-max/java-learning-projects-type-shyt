@@ -25,3 +25,7 @@ desktop.ini
 # Build output
 target/
 build/
+
+# Runtime-generated data
+**/robotics component inventory/data/stock.txt
+**/personal expense and budget tracker/BudgetReport.txt
