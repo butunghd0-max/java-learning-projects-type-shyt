@@ -203,25 +203,25 @@ Quick usage notes for each project. Every project includes input validation, so 
 
 ## References
 
-Oracle. "Java SE Documentation." _Oracle Help Center_, Oracle Corporation, docs.oracle.com/en/java/javase/. Accessed 6 Dec. 2024.
-
-Oracle. "Class Scanner." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Scanner.html. Accessed 10 Dec. 2024.
-
-Oracle. "Class Pattern." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html. Accessed 15 May 2025.
+Cormen, Thomas H., et al. _Introduction to Algorithms_. 4th ed., MIT Press, 2022.
 
 "Mermaid Flowchart Syntax." _Mermaid_, Mermaid Contributors, mermaid.js.org/syntax/flowchart.html. Accessed 22 Jun. 2025.
 
-Oracle. "Class HttpURLConnection." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/net/HttpURLConnection.html. Accessed 3 Nov. 2025.
+"Open-Meteo Geocoding API." _Open-Meteo_, open-meteo.com/en/docs/geocoding-api. Accessed 5 Nov. 2025.
 
 "Open-Meteo Weather API." _Open-Meteo_, open-meteo.com/en/docs. Accessed 5 Nov. 2025.
 
-"Open-Meteo Geocoding API." _Open-Meteo_, open-meteo.com/en/docs/geocoding-api. Accessed 5 Nov. 2025.
+Oracle. "Class HttpURLConnection." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/net/HttpURLConnection.html. Accessed 3 Nov. 2025.
 
-Oracle. "Package java.nio.file." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/nio/file/package-summary.html. Accessed 18 Jan. 2026.
+Oracle. "Class Pattern." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html. Accessed 15 May 2025.
 
-Cormen, Thomas H., et al. _Introduction to Algorithms_. 4th ed., MIT Press, 2022.
+Oracle. "Class Scanner." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Scanner.html. Accessed 10 Dec. 2024.
 
 Oracle. "Interface Queue\<E\>." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Queue.html. Accessed 25 Jan. 2026.
+
+Oracle. "Java SE Documentation." _Oracle Help Center_, Oracle Corporation, docs.oracle.com/en/java/javase/. Accessed 6 Dec. 2024.
+
+Oracle. "Package java.nio.file." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/nio/file/package-summary.html. Accessed 18 Jan. 2026.
 
 Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. 4th ed., Pearson, 2021.
 
