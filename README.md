@@ -76,6 +76,30 @@ Ensure you have the [Java Development Kit (JDK)](https://www.oracle.com/java/tec
    java Main
    ```
 
+## References
+
+Oracle. "Java SE Documentation." _Oracle Help Center_, Oracle Corporation, docs.oracle.com/en/java/javase/. Accessed 9 Mar. 2026.
+
+Oracle. "Class Scanner." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Scanner.html. Accessed 9 Mar. 2026.
+
+Oracle. "Class HttpURLConnection." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/net/HttpURLConnection.html. Accessed 9 Mar. 2026.
+
+Oracle. "Package java.nio.file." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/nio/file/package-summary.html. Accessed 9 Mar. 2026.
+
+Oracle. "Interface Queue\<E\>." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Queue.html. Accessed 9 Mar. 2026.
+
+Oracle. "Class Pattern." _Java SE 21 API Specification_, Oracle Corporation, docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html. Accessed 9 Mar. 2026.
+
+"Open-Meteo Weather API." _Open-Meteo_, open-meteo.com/en/docs. Accessed 9 Mar. 2026.
+
+"Open-Meteo Geocoding API." _Open-Meteo_, open-meteo.com/en/docs/geocoding-api. Accessed 9 Mar. 2026.
+
+"Mermaid Flowchart Syntax." _Mermaid_, Mermaid Contributors, mermaid.js.org/syntax/flowchart.html. Accessed 9 Mar. 2026.
+
+Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: A Modern Approach_. 4th ed., Pearson, 2021.
+
+Cormen, Thomas H., et al. _Introduction to Algorithms_. 4th ed., MIT Press, 2022.
+
 ## License
 
 This is a personal learning repository. Code is open for reference and educational use.
