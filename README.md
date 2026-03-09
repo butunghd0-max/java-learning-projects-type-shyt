@@ -1,6 +1,6 @@
 # Java Learning Projects
 
-A structured collection of Java console applications developed to build programming fundamentals. The repository progresses from basic syntax and logic to object-oriented programming, data structures, and external API integration. Many of these projects focus on practical utilities, robotics calculations, and engineering concepts.
+A structured collection of Java console applications developed to build programming fundamentals. The repository progresses from basic syntax and logic to object-oriented programming, data structures, and external API integration. Many of these projects focus on practical utilities, robotics calculations, and engineering concepts. This project is part of Creativity, Activity and Service (CAS).
 
 ## Repository Structure
 
